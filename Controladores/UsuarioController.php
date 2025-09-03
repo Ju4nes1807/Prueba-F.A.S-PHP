@@ -1,5 +1,5 @@
 <?php
-require_once("../Modelos/UsuarioDTO.php");
+require_once "../Modelos/UsuarioDTO.php";
 require_once("../Modelos/UsuarioDAO.php");
 require_once("../Modelos/Conexion.php");
 
