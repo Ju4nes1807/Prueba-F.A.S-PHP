@@ -1,7 +1,7 @@
 <?php
 require_once "../Modelos/UsuarioDTO.php";
-require_once("../Modelos/UsuarioDAO.php");
-require_once("../Modelos/Conexion.php");
+require_once "../Modelos/UsuarioDAO.php";
+require_once "../Modelos/Conexion.php";
 
 ini_set('display_errors', 0);
 error_reporting(0);
